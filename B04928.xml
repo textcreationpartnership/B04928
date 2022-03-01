@@ -1,0 +1,1033 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A geographical description of Scotland. With the faires largely insert; as also, an exact table of tides, and a table of the latitude and longitude of the most remarkable places in Scotland; with other useful notes, fit for every man to know either on sea or land. Exactly calculated and formed, for the use of all travellers, mariners, and others, who have any affairs, or merchandizing in this kingdom of Scotland. / By James Paterson, mathematician.</title>
+            <author>Paterson, James, mathematician, fl. 1685.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 35 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04928</idno>
+            <idno type="STC">Wing P683D</idno>
+            <idno type="STC">ESTC R181514</idno>
+            <idno type="EEBO-CITATION">53299208</idno>
+            <idno type="OCLC">ocm 53299208</idno>
+            <idno type="VID">179948</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B04928)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179948)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2808:53)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A geographical description of Scotland. With the faires largely insert; as also, an exact table of tides, and a table of the latitude and longitude of the most remarkable places in Scotland; with other useful notes, fit for every man to know either on sea or land. Exactly calculated and formed, for the use of all travellers, mariners, and others, who have any affairs, or merchandizing in this kingdom of Scotland. / By James Paterson, mathematician.</title>
+                  <author>Paterson, James, mathematician, fl. 1685.</author>
+               </titleStmt>
+               <editionStmt>
+                  <edition>The second edition much corrected and inlarged.</edition>
+               </editionStmt>
+               <extent>[16] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Joshua van Solingen and John Colmar, at the foot of Heriot's Bridge, and are to be sold by James Paterson mathematician, at the head of the Cowgate,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>1685.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: print show-through with slight loss of text.</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fairs --  Scotland --  Early works to 1800.</term>
+               <term>Tides --  Scotland --  Early works to 1800.</term>
+               <term>Scotland --  Geography --  Early works to 1800.</term>
+               <term>Scotland --  Description and travel --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Greg Schutz</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Greg Schutz</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:179948:1"/>
+            <pb facs="tcp:179948:1" rendition="simple:additions"/>
+            <p>A Geographical DESCRIPTION OF SCOTLAND.</p>
+            <p>With the Faires largely inſert; As alſo, an exact Table of Tides, and Table of the Latitude and Lon<g ref="char:EOLhyphen"/>gitude of the moſt remarkable pla<g ref="char:EOLhyphen"/>ces in <hi>Scotland;</hi> with other uſeful notes, fit for every man to know either on Sea or Land.</p>
+            <p>Exactly Calculate and formed, for the uſe of all Travellers, Mari<g ref="char:EOLhyphen"/>ners, and others, who have any Affairs, or Merchandizing in this Kingdom of <hi>Scotland.</hi>
+            </p>
+            <p>By <hi>James Paterſon,</hi> Mathematician.</p>
+            <p>
+               <hi>EDINB<g ref="char:V">Ʋ</g>RGH,</hi> Printed in the Year, 1681.</p>
+         </div>
+      </front>
+      <body>
+         <div type="table">
+            <pb facs="tcp:179948:2"/>
+            <head>A Table of the Latitude and Longitude of the moſt <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>markable Towns and Sea-ports in <hi>Scotland,</hi> reckon<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> the Longitude from the Meridian of <hi>Edinburgh.</hi>
+            </head>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label" rows="2">Places Names.</cell>
+                     <cell role="label" cols="3">Latitude.</cell>
+                     <cell role="label" cols="3">Longit.</cell>
+                  </row>
+                  <row>
+                     <cell role="label">d.</cell>
+                     <cell role="label">'</cell>
+                     <cell role="label" rows="24">North.</cell>
+                     <cell role="label">d.</cell>
+                     <cell role="label">'</cell>
+                     <cell role="label" rows="8">Eaſt.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Edinburgh.</hi>
+                     </cell>
+                     <cell>56</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Leith.</hi>
+                     </cell>
+                     <cell>56</cell>
+                     <cell>01</cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Bruntisland.</hi>
+                     </cell>
+                     <cell>56</cell>
+                     <cell>07</cell>
+                     <cell>0</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>St. <hi>Andrews.</hi>
+                     </cell>
+                     <cell>56</cell>
+                     <cell>26</cell>
+                     <cell>0</cell>
+                     <cell>18</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Dundee.</hi>
+                     </cell>
+                     <cell>56</cell>
+                     <cell>34</cell>
+                     <cell>0</cell>
+                     <cell>08</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Aberdeen.</hi>
+                     </cell>
+                     <cell>57</cell>
+                     <cell>22</cell>
+                     <cell>1</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Shetland.</hi>
+                     </cell>
+                     <cell>60</cell>
+                     <cell>22</cell>
+                     <cell>0</cell>
+                     <cell>38</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Orknay.</hi>
+                     </cell>
+                     <cell>58</cell>
+                     <cell>50</cell>
+                     <cell>0</cell>
+                     <cell>07</cell>
+                     <cell role="label" rows="12">Weſt</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Skyraſſin.</hi>
+                     </cell>
+                     <cell>58</cell>
+                     <cell>03</cell>
+                     <cell>2</cell>
+                     <cell>50</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Lews.</hi>
+                     </cell>
+                     <cell>58</cell>
+                     <cell>30</cell>
+                     <cell>4</cell>
+                     <cell>57</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Glaſgow.</hi>
+                     </cell>
+                     <cell>55</cell>
+                     <cell>57</cell>
+                     <cell>1</cell>
+                     <cell>0<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Stirling.</hi>
+                     </cell>
+                     <cell>56</cell>
+                     <cell>08</cell>
+                     <cell>0</cell>
+                     <cell>4<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Dunkel.</hi>
+                     </cell>
+                     <cell>56</cell>
+                     <cell>34</cell>
+                     <cell>0</cell>
+                     <cell>50</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Lanerk.</hi>
+                     </cell>
+                     <cell>55</cell>
+                     <cell>52</cell>
+                     <cell>0</cell>
+                     <cell>38</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Perth.</hi>
+                     </cell>
+                     <cell>56</cell>
+                     <cell>31</cell>
+                     <cell>1</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>St. <hi>Johnſtoun.</hi>
+                     </cell>
+                     <cell>56</cell>
+                     <cell>28</cell>
+                     <cell>0</cell>
+                     <cell>30</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Air.</hi>
+                     </cell>
+                     <cell>55</cell>
+                     <cell>38</cell>
+                     <cell>1</cell>
+                     <cell>58</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Kirkudbright.</hi>
+                     </cell>
+                     <cell>50</cell>
+                     <cell>00</cell>
+                     <cell>1</cell>
+                     <cell>22</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Dumfrice.</hi>
+                     </cell>
+                     <cell>55</cell>
+                     <cell>12</cell>
+                     <cell>0</cell>
+                     <cell>12</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Kelſo.</hi>
+                     </cell>
+                     <cell>55</cell>
+                     <cell>45</cell>
+                     <cell>1</cell>
+                     <cell>00</cell>
+                     <cell role="label" rows="2">Eaſt.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Dumbar.</hi>
+                     </cell>
+                     <cell>56</cell>
+                     <cell>00</cell>
+                     <cell>0</cell>
+                     <cell>36</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Falkirk.</hi>
+                     </cell>
+                     <cell>56</cell>
+                     <cell>04</cell>
+                     <cell>0</cell>
+                     <cell>3<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                     <cell rows="2"> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Linlithgow.</hi>
+                     </cell>
+                     <cell>56</cell>
+                     <cell>04</cell>
+                     <cell>0</cell>
+                     <cell>2<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+         </div>
+         <div n="scotland" type="description">
+            <pb facs="tcp:179948:2"/>
+            <head>A Geographical <hi>DESCRIPTION</hi> of <hi>Scotland.</hi>
+            </head>
+            <p>THe main continent of <hi>Scotland</hi> will be in length 240 miles (ſuch miles as the whole Earth is, 21600 in compaſs,) and will be in breadth, in the Latitude of 55 d. 30' (which is the ſouth end thereof 140 miles, and a<g ref="char:EOLhyphen"/>bout the Latitude of 56 d. 00' is 90 miles, and in Lati<g ref="char:EOLhyphen"/>tude 57 d. 50' is 160 miles, and in Latitude 59 d. 00' (which is the north end) 80 miles, and will be in Pro<g ref="char:EOLhyphen"/>portion about 117½ miles.</p>
+            <p>The Iſland of <hi>Ila,</hi> is 24 miles in length, and about as much in breadth. The Iſland of <hi>Mull</hi> is about 30 miles in length, and as much in breadth. The Iſland of <hi>Sky</hi> is 60 miles in length, and 15 in breadth. The Iſland of <hi>Arran,</hi> lying in <hi>Dumbritain</hi> Firth, is 16 miles in length, and 8 miles in breadth. The Iſland <hi>Lewes</hi> is 50 miles in length, North and South, and is 36 miles broad at the north end, and 10 miles broad at the ſouth end, and in proportion is 23 miles broad. North-eaſt of <hi>Lewes</hi> lyeth the Iſle of <hi>Rona</hi> 7 miles in length, and 4 in breadth. Next the <hi>Lewes</hi> ſouth, lyeth St. <hi>Patricks</hi> Iſland, 16 miles in length, and 10 in breadth, St. <hi>Maries</hi> Iſland is 20 in length and 6 in breadth, St. <hi>Collumbs</hi> is 14 in length, and 10 in breadth. St. <hi>Peters</hi> is 10 in length, and as much in breadth. The Iſland of <hi>Bute</hi> is 10 miles in length, and 3 in breadth. The Iſland <hi>Kilda</hi> is 36 miles in com<g ref="char:EOLhyphen"/>paſs.</p>
+         </div>
+         <div type="list">
+            <head>The Courſe and Diſtance betwixt the moſt remarkable Ports, Capes, or Head lands alongſt the Coaſt of <hi>Scotland.</hi>
+            </head>
+            <list>
+               <item>FRom Berwick to St. Ebs head N W B N 4 leagues.</item>
+               <item>From St. Ebs head to the Baſs N W B W 3 leagues.</item>
+               <pb facs="tcp:179948:3"/>
+               <item>From the Baſs to Leith W. 6 leagues.</item>
+               <item>From Leith to Queens-Ferry W. 2 leagues.</item>
+               <item>From Leith to Bruntiſland N. 2 leagues.</item>
+               <item>From Bruntiſland to Fife-neſs E B N 9 leagues</item>
+               <item>From Fife-neſs to St. Andrews N W 3 leagues.</item>
+               <item>From St. Andrews to Dundee N N W 3 leagues</item>
+               <item>From Dundee to Monroſs N N E 7 leagues</item>
+               <item>From Monroſs to Stonehive N E B N 4 leagues.</item>
+               <item>From Stonehive to Aberdeen N. 4 leagues.</item>
+               <item>From Aberdeen to Buchan-neſs N N E 12 leagues</item>
+               <item>From Buchan-neſs to Spy-leart N N W 4 leagues</item>
+               <item>From Spy-leart to Roſs W S W 20 leagues.</item>
+               <item>From Roſs to Cape Tarbate N E 4 leagues.</item>
+               <item>From Cape Tarbate to Caithneſs N E B N 14 leagues</item>
+               <item>From Caithneſs to Dambsby-head N W 3 leagues.</item>
+               <item>From Dambsby-head to Fore-head W. 23 league;</item>
+               <item>From Fore-head to Iſland Sky S W B S 25 leagues</item>
+               <item>From Fore-head to Skire-Aſſin, S S W 17 leagues.</item>
+               <item>From Iſland Sky to Mull, S 17 leagues.</item>
+               <item>From Mull to Iſla, S 17 leagues.</item>
+               <item>From Iſla to the Mull of Kintyre, S S E 9 leagues.</item>
+               <item>From Kintyre to Lochrean S E 9 leagues.</item>
+               <item>From Lochrean to Elſee hill N. 6 leagues.</item>
+               <item>From Elzee to Lamblaſh N. 6 leagues.</item>
+               <item>From Lamblaſh to Comer Iſle N N E 2 leagues.</item>
+               <item>From Elzee to Irving N E 10 leagues.</item>
+               <item>From Lochrean to the Bay of Glenluſe E S E 6 leagues.</item>
+               <item>From the Bay of Glenluſe to Kirkcudbright E. 8 leagues.</item>
+               <item>From Kirkcudbright to Salloway Sands E. 8 leagues.</item>
+               <item>From Salloway Sands to Carlile E. 8 leagues.</item>
+               <item>And from Carlile to Berwick by land N E B N 56 miles.</item>
+            </list>
+         </div>
+         <div n="high-wayes" type="description">
+            <head>A Deſcription of the moſt remarkable High-wayes in <hi>Scotland.</hi>
+            </head>
+            <list>
+               <item>FRom Edinburgh to Aberdene, and ſo to Peterhead 94 miles. Thus,
+<list>
+                     <item>From Edinburgh to Kircaldy 10 miles, from thence to Co<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                        <g ref="char:EOLhyphen"/>per 14 miles, thence to Dundee 8 miles, thenc<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> to Brichan 12 miles, thence to Aberdeen 26 thence to Peterhead 24.</item>
+                  </list>
+               </item>
+               <pb facs="tcp:179948:3"/>
+               <item>From Edinburgh to St. Johnſtoun 28 m.
+<list>
+                     <item>From Edinburgh to Brunt Iſland 7 miles, thence to Faulkland 12 m. thence to St. Johnſtoun 9 miles</item>
+                  </list>
+               </item>
+               <item>From Edinburgh to Dumblain 24 miles
+<list>
+                     <item>To Culroſs 14 m. thence to Dumblain 10 m.</item>
+                  </list>
+               </item>
+               <item>From Edinburgh to Dunkel 36 m.
+<list>
+                     <item>To St. Johnſtoun 28 m. as before, thence to Dunkel 8 m.</item>
+                  </list>
+               </item>
+               <item>From Edinburgh to Clackmannan 20 m.
+<list>
+                     <item>To Queens-Ferry 7 m. thence to Culroſs 7 m. thence to Clackmannan 6 m.</item>
+                  </list>
+               </item>
+               <item>From Edinburgh to Stirling 26 m.
+<list>
+                     <item>To Kirkliſtoun 6 m. thence to Linlighgow 6 m. thence to Falkirk 6 m. to Stirling 8 miles.</item>
+                  </list>
+               </item>
+               <item>From Edinburgh to Glaſgow 36 m.
+<list>
+                     <item>To Kirkliſtoun 6 m. thence to Linlithgow 6 m. thence to Falkirk 6 miles, thence to Kilſyth 9 m. thence to Kirkintilloch 3 m. thence to Glaſgow 6 m.</item>
+                  </list>
+               </item>
+               <item>From Edinburgh to Lanerk 20 m.
+<list>
+                     <item>To Curry 4 m. thence to Achenouns-hill 4 m. thence to Corſet-hill 4 miles, thence to Carnwath 4 m. thence to Lanerk 4 miles.</item>
+                  </list>
+               </item>
+               <item>From Edinburgh to Glenluſe 74 m.
+<list>
+                     <item>To Lanerk 20 m. as before, thence to Sanquhar 30 m. thence to Glenluſe 24 m.</item>
+                  </list>
+               </item>
+               <item>From Edinburgh to Kirkcudbright 58 m
+<list>
+                     <item>To Bigger 16 m. thence to Lamingtoun 6 m. thence to Mortoun 16 m. thence Kircudbright 20 m.</item>
+                  </list>
+               </item>
+               <item>From Edinburgh to Dumfriece 52 m.
+<list>
+                     <item>To Lintown 12 m. thence to the Bield 12 m. to Moffat 12 m. thence to Dumfriece 16 m.</item>
+                  </list>
+               </item>
+               <item>From Edinburgh to Kelſo 26 miles.
+<list>
+                     <item>To Ginglekirk 12 m. thence to Kelſo 14 m.</item>
+                  </list>
+               </item>
+               <item>From Edinburgh to Dumbar 20 m.
+<list>
+                     <item>To Seatoun 7 m. thence to Dumbar 13 m.</item>
+                  </list>
+               </item>
+               <item>From Edinburgh to Roxburgh 26 m.
+<list>
+                     <item>To Soutrey-hill 8 m. thence to Roxburgh 12 m.</item>
+                  </list>
+               </item>
+               <item>From Glaſgow to Dumblain 28 m.
+<list>
+                     <item>From Glaſgow to Torwood 18 m. thence to Dum<g ref="char:EOLhyphen"/>blain 10 m.</item>
+                  </list>
+               </item>
+               <item>From Glaſgow to Stirling 18 m.
+<pb facs="tcp:179948:4"/>
+                  <list>
+                     <item>To Kirkintilloch 6 m. thence to Kilſyth 3 m. thence <gap reason="illegible" resp="#UOM" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> Stirling 9 m.</item>
+                  </list>
+               </item>
+               <item>From Glaſgow to Dumbarroun 10 m.</item>
+               <item>From Glaſgow to Egliſtoun 16 m.
+<list>
+                     <item>To Paſlay 6 m. thence to Egliſtoun 10 miles.</item>
+                  </list>
+               </item>
+               <item>From Glaſow to Kilwinning 18 miles.
+<list>
+                     <item>To Paſlay 6 m. thence to Kilwinning 12 m.</item>
+                  </list>
+               </item>
+               <item>From Glaſgow to Irwing 20 m.
+<list>
+                     <item>To Paſlay 6 m. thence to Irwing 14 m.</item>
+                  </list>
+               </item>
+               <item>From Glaſgow to Air 24 m.
+<list>
+                     <item>To Kilmarnoch 16 m. thence to Air 8 m.</item>
+                  </list>
+               </item>
+               <item>From Glaſgow to Greenock 16 m.</item>
+               <item>From Glaſgow to Glenluſe 44 m.
+<list>
+                     <item>To New-mills 10 m. thence to Glenluſe 34 m.</item>
+                  </list>
+               </item>
+               <item>From Glaſgow to Kircudbright 42 miles.
+<list>
+                     <item>To New-mills 10 m. thence to Sanquhar 16 m. there to Kircudbright 16 m.</item>
+                  </list>
+               </item>
+               <item>From Glaſgow to Lanerk 16 m.
+<list>
+                     <item>To Hamiltown 8 m. thence to Lanerk 8 m.</item>
+                  </list>
+               </item>
+               <item>From Glaſgow to Kelſo 56 m.
+<list>
+                     <item>From Glaſgow to Lanerk 16 m. thence to Selkirk 24 m. thence to Roxburgh 14 m. thence to Kelſo 2 m.</item>
+                  </list>
+               </item>
+               <item>From Lanerk to Dumfriece 32 m.
+<list>
+                     <item>From Lanerk to Crawford-John 18 m. thence to Lead<g ref="char:EOLhyphen"/>hill 4 m. thence to Enterkin 2 m. thence to Dum<g ref="char:EOLhyphen"/>friece 16 m.</item>
+                  </list>
+               </item>
+               <item>From Lanerk to Moffat 22 m.
+<list>
+                     <item>To Lamingtown 10 m. thence to Moffat 12 m.</item>
+                  </list>
+               </item>
+               <item>From Lanerk to Peebles 16 m.
+<list>
+                     <item>To Bigger 8 m. thence to Broughtown 3 m. thence to Peebles 5 m.</item>
+                  </list>
+               </item>
+               <item>From Lanerk to Hawik 32 m.
+<list>
+                     <item>To Bigger 8 m. thence to Hawick 24 m.</item>
+                  </list>
+               </item>
+               <item>From Lanerk to St. Andrews 50 m.
+<list>
+                     <item>To Torphechan 8 m. thence to Kirkliſtoun 10 m. thence to Bruntiſland 12 m. thence to Kennoway 12 m. thence to Sr. Andrews 8 m.</item>
+                  </list>
+               </item>
+               <item>From Lanerk to St. Johnſtoun 45 m.
+<list>
+                     <item>To Falkirk 12 m. thence to Dumblain 16 m. thence St. Johnſtown 17 m.</item>
+                  </list>
+               </item>
+               <item>From Lanerk to Dunkel 43 m.
+<pb facs="tcp:179948:4"/>
+                  <list>
+                     <item>To Falkirk 12 m. thence to Stirling 6 m. thence to thurd 24 m. thence to Dunkel 1 m.</item>
+                  </list>
+               </item>
+               <item>From Lanerk To Dumbartoun 26 m.
+<list>
+                     <item>To Glaſgow 16 m. thence to Dumbartoun 10 m.</item>
+                  </list>
+               </item>
+               <item>From Lanerk to Irwing 40 m.
+<list>
+                     <item>To Newmilns 26 m. thence to Kilmarnock 10 miles, thence to Irwing 4 miles.</item>
+                  </list>
+               </item>
+               <item>From Lanerk to Air 42 miles.
+<list>
+                     <item>To New-mills 26 m. thence to Air 16 m.</item>
+                  </list>
+               </item>
+               <item>From Air to Kircudbright 40 m.</item>
+               <item>From Air to Moffat 50 miles.
+<list>
+                     <item>To Sanquhar 30 m. thence to Mortown 8 m. thence to Moffat 12. m.</item>
+                  </list>
+               </item>
+               <item>From Air to Kelſo 84 m.
+<list>
+                     <item>To Lamingtown 40 m. thence to Selkirk 30 m. thence to Kelſo 14 m.</item>
+                  </list>
+               </item>
+               <item>From Air to St. Andrews 73 m.
+<list>
+                     <item>To Glaſgow 24 m. thence to Falkirk 15 m. thence to Culroſs 8 m. thence to Kennoway 18 m. thence to St. Andrews 8. m.</item>
+                  </list>
+               </item>
+               <item>From Air to Dundee 83 m.
+<list>
+                     <item>To Culroſs 47 m. thence to Faulkland 18 m. thence to Couper 10 m. thence to Dundee 8 m.</item>
+                  </list>
+               </item>
+               <item>From Air to Aberdeen 121 m.
+<list>
+                     <item>To Dundee 83 m. thence to Aberdeen 38 m.</item>
+                  </list>
+               </item>
+               <item>From Air to Kaithneſs 208 m.
+<list>
+                     <item>To Kilmarnoch 8 m. thence to Dumbartoun 16 m. thence to Strathamond 40 m. thence to Ranive 42 miles, thence to Dingwell 30 m. thence to Ro<g ref="char:EOLhyphen"/>gart 28 m. thence to Kildon 10 m. thence to Caithneſs 34 m.</item>
+                  </list>
+               </item>
+               <item>From Air to Skire-Aſſin 155 m.
+<list>
+                     <item>To Irwing 8 m. thence to Kilwinning 3 m. thence to Bethy 6 m. thence to Loch-Lomond-hills 28 m. thence to Loch-Garve 40 m. thence to Lome 40, thence to Eſhbrew 12, thence to Skire-Aſsin 18.</item>
+                  </list>
+               </item>
+               <item>From Kelſo to Aberdene 96 m.
+<list>
+                     <item>From Kelſo to Edinburgh 26 m. thence to Aberdene 70 m.</item>
+                  </list>
+               </item>
+               <item>When you go from <hi>Kelſo</hi> to any Part in the North of Scotland, the beſt way is by <hi>Edinburgh.</hi>
+               </item>
+            </list>
+         </div>
+         <div n="faires" type="schedule">
+            <pb facs="tcp:179948:5"/>
+            <head>The whole known Faires in <hi>Scotland;</hi> With the number of the Shires and Burghs therein.</head>
+            <div n="january" type="month">
+               <head>Faires in January.</head>
+               <p>The firſt Fair in the year is at Kilſyth the 1. day. S. Naugh<g ref="char:EOLhyphen"/>lans fair at the town of old Meldrum the 2. tueſday, and at the Kirk of Bethelny in Gerry, upon the 7 day. S. Mungo in Glaſgow the 13 day, a fair at Dunkell and Kilwinning the 21 day. S. Pauls fair at Turreff in Buchan the laſt tueſday.</p>
+            </div>
+            <div n="february" type="month">
+               <head>In February.</head>
+               <p>At Abernethy and Forres in Murray-land called S. Brides day, and at the town of Innerneſs, all on the 1 day. Candle<g ref="char:EOLhyphen"/>maſs day in Bamff, Dunkel, Dingwal and Dowglas the 2 day. Candlemaſs fair at the town of Ratray, in the paroch of Cri<g ref="char:EOLhyphen"/>mon in Buchan the firſt tueſday after Candlemaſs, at Cow<g ref="char:EOLhyphen"/>per of Fife the firſt wedneſday of the moneth. Valentines day at Linlithgow the 14 day, and at Forfar the 15 day, holding 8 days. Aſhwedneſdays Fair begins on Faſtem<g ref="char:EOLhyphen"/>even at Lanerk, at Valley-field the 24 day.</p>
+            </div>
+            <div n="march" type="month">
+               <head>In March.</head>
+               <p>S. Monnence in Aberdene, Dumfermline, Abercherdes, S. Marnoch Kirk, and Strathven the 1 day; at Pettenweem 3 day, at Dumblain the firſt wedneſday. A fair at Markinch the 6 day. S. Duthos in Tane of Roſs the 9 day, in Auchter<g ref="char:EOLhyphen"/>tuil the 10 day. S. Marks fair at Innerneſs the ſame day: S. Cauſnan the 12 day; S. Patrick in Dumbarton, and at the Kirk of Strageeth, and at Kirkcaldy the 16 day: in S. John<g ref="char:EOLhyphen"/>ſtoun the 19 day. S. Cuthbert fair in Langtoun of the Mers the 20 day, Lady day in Weſt-weems, Bamff, and Auch<g ref="char:EOLhyphen"/>termuchty the 25 day.</p>
+            </div>
+            <div n="march and april" type="month">
+               <head>
+                  <hi>Whiles in</hi> March, <hi>and whiles in</hi> April.</head>
+               <p>Palmſunday at the Kirk of Forrig, and in the town of In<g ref="char:EOLhyphen"/>nerneſs, and S. Johnſtoun, all upon munday thereafter. S. Marks fair at the town of Forres in Murray-ſhire on tueſ<g ref="char:EOLhyphen"/>day after Eaſter. Skirethurſday fair at the Burgh of Gla<g ref="char:EOLhyphen"/>gow, Dumbarton. Cowper of Angus, otherwiſe Monks Con<g ref="char:EOLhyphen"/>per,
+<pb facs="tcp:179948:5"/>and Elgine of Murray, both on Thurſday before Paſch. Paſch-munday in Cowper of Fife, Lanerk, and Irwing, all on munday after Paſch. Mid-lentron fair at Tantibanchrie, on thurſday before Mid-lentron Sunday: Palmſunday at Frendraught: a fair in old Aberdene the thurſday before Paſch, a fair at new Leſlie the tueſday before Paſch. Low<g ref="char:EOLhyphen"/>ſunday after Paſch in Killimore, and all the week after at the Senzie of S. Andrews. A new fair at Borrowſtonneſs, and at Corſtorphine the firſt tueſday after Eaſter.</p>
+            </div>
+            <div n="april" type="month">
+               <head>In April.</head>
+               <p>Ples fair at Cruden in Buchan, the firſt tueſday. S. Donald fair at the Kirk of Achterleſs in Buchan the 17 day, Mark Evangel in Dyſert the 23 day; Beltan day the firſt, the 26 day. A Fair at Rugland the 28 day, continuing four dayes, and a fair at the town of Ratray in Buchan the laſt tueſday, being 8 days before Rude fair in Ellon. A fair at Leven the 29 day, in Kilreny the 30 day.</p>
+            </div>
+            <div n="may" type="month">
+               <head>In May.</head>
+               <p>S. Philips fair in the Grange in Linlithgow Shire, and at the new Kirk of Kilpatrick, the 1 day. Holy Croſs fair the 2 day: Rude fair at Ellon in Buchan, Beltan fair at Monroſs in the Shire of Angus, and at Kinrocher and Peebles; alſo S. Congals fair at the Kirk of Doors in Merns-ſhire, all on the 3 day. Fumuck fair at Fumuck Kirk, in the paroch of Petriſnie, within the Shire of Bamff the 3 day. A fair at Renfrew the 9 day, at Carlouk and Drymen in Lennox the 10 day; Brandon fair at Bamff, and a fair at Kirkaldy the 16 day.</p>
+            </div>
+            <div n="may and june" type="month">
+               <head>
+                  <hi>Whiles in</hi> May, <hi>and whiles in</hi> June.</head>
+               <p>A fair at Stirling ten days before Whitſunday: Whitſun<g ref="char:EOLhyphen"/>day fair at Stone-hive in Merns-ſhire, on tueſday before Whitſunday, a fair at Leſlie on thurſday before whitſunday: Whitſundays fair called Pardon day, at Peter-head in Bu<g ref="char:EOLhyphen"/>chan, Aſcenſion day at the Burgh of Annan, Whitſunmun<g ref="char:EOLhyphen"/>day at Glaſgow, Dumbarton, Lanerk, and Jedburgh. A fair in Borrowſtounneſs on tueſday after Whitſunday, alſo at Lin<g ref="char:EOLhyphen"/>lighgow and Dumblain the ſame day; Whitſuntueſday cal<g ref="char:EOLhyphen"/>led Pardon-day at Chanry im Roſs, and at the Kirk of Nini<g ref="char:EOLhyphen"/>ans
+<pb facs="tcp:179948:6"/>above Kirkaldy. Trinity munday at Edinburgh, and at the town of Brechin, holding 8 days, alſo at S. Andrews and Burntiſland the ſame day: Trinity tueſday in Rugland, Trinity thurſday in Falkland, both laſting 2 days. Whit<g ref="char:EOLhyphen"/>ſundays mercat at the moor of Dun, in the Shire of Angus, the ſecond wedneſday after Whitſunday: A fair at Kilſyth the friday before Whitſunday.</p>
+            </div>
+            <div n="june" type="month">
+               <head>In June.</head>
+               <p>A mercat at Kinroſs the firſt tueſday, in Langtoun 5 day, Bernard mercat alſo at Monifeeth in Angus, and at Kirk<g ref="char:EOLhyphen"/>town of New-deer in Buchan, S. Colms fair at Drumhead in Belhelvie, alſo S. Colms fair at the Rirk town of David in the Gerry, all upon the ſecond tueſday. S. Colms mercatat Stramiglo, Aberdour, and Ennerkeithing the 6 day, at Dry<g ref="char:EOLhyphen"/>men the 9 day, in Forgondenny the 10. S. Barnabie in Lawder, Dyſert, Dowglas, S. Lawrence in Grinnock, and Preſton-pans, and Dirletoun, all on the 11 day. S. Marga<g ref="char:EOLhyphen"/>ret in Abernethie, Ceres in Fife 13 day; Midſummer on S. Johns day in S. Johnſtoun, Air, Wigton, Bamff, Athelſton, and Meiklour in Perth-ſhire, all upon the 14 day; in Auch<g ref="char:EOLhyphen"/>tertuil and Clackmanan, and at Bocklyvie in the paroch of Kippin, and Scoon, all on the 15 day; at Straven the 16 day: S. Margarets fair upon the Mains of Keith-hall (ſome<g ref="char:EOLhyphen"/>times called Casky-byn,) S. Edwards fair at Turreff in Buchan, and at the Burgh of Annan, all upon the 3 tueſday. S. Margaret in Dumfermling, and at Moffat the 18 day, and at Earleſtoun 19 day; Monro his fair holden at Colrain in Roſs-ſhire the 20 day; at Methil near Levens mouth the 22 day, Midſummer day in Forres, Carnwath, Hawick, and at Townyettam on the border, all on the 24 day; In Alathy in Angus called S. Emagola, and at the town of Nicolſon, both on the 25 day; S. Peters day at Forfar, at Faulkland, and Burntiſland, Bamff, and Kelſo, all on the 26 day. S. John Baptiſt day, a fair in Fraſerburgh 24 day, at Gallaſheils 27 day, in Pebles 29 day: S. Seriffs fair at the Kirk of Rulſhal<g ref="char:EOLhyphen"/>men in Gerry the laſt tueſday of this moneth. S. Peters fair at Migel in Perth-ſhire, and at Haddingtoun, both upon the laſt day.</p>
+               <pb facs="tcp:179948:6"/>
+            </div>
+            <div n="july" type="month">
+               <head>In July.</head>
+               <p>A fair at Culroſs, Stow, and Edzerſtoun in Teviordale all on the 1 day; Abernethie and Auchtermuchtie the 2 day; S. Martine of Bulzeon 3 day; Peters fair at Peterhead the 5 day: A new mercat in Dundee the 1 tueſday. S. Thomas in Langtoun 5 day: Lady mercat at the Kirk of Forden in the Merns 6 day. S. Andrew in Glaſgow and Innerneſs the 7 day, at Borrowſtounneſs, Burgh of Annan, and Aikie fair at the town of Old-deer, all on the ſecond tueſday. S. Law<g ref="char:EOLhyphen"/>rence at Grinnock the 11 day, at Kilwinning the 12 day: S. Margaret in Killimuir, and at the Kirk of Forrig the 13 day, in Moffat, and at Kirkaldy the 18 day, at Stirling 20 day; Mary Magdalene in Lawder, Linlithgow, Pettenweem, and Path-head 22 day: S. Margarets fair at Frendraught, and in Tarves the 3 tueſday: S. Andrews fair at the Kirk of Glaſs in Strabogie on tueſday after the 15 day; in Airth, and S. Chriſtina in Corſtorphine both on the 24 day. S. James in Forfar, Kinghorn, Cowper of Fife, Lanerk, Rox<g ref="char:EOLhyphen"/>burgh, Alloway, Muſſelburgh, and at Elgin in Murray, all on the 25 day, at Kinloch-Rannoch in Athol, Perth-ſhire, at Turreff in Buchan, new Leſly, and at Whithorn all on the laſt tueſday.</p>
+            </div>
+            <div n="august" type="month">
+               <head>In August.</head>
+               <p>Lambmaſday in Atturff, Melrois, Ennerkething, S. Andrews, and Dumbarton all on the 2 day: S. Lawrence fair in Rane the 1 tueſday, and thurſday after in Falkland. S. Lawrence in Merns-ſhire, upon Lawrence moor, a little above the place of Hawkertown, holding 4 days, and at Jedburgh, Marymaſs fair at the town of Monymusk, all upon the 2 tueſday, at Kilſyth the 5 day, in Meiklour the 7. S. Lawrence in Sel<g ref="char:EOLhyphen"/>kirk, Auchtermuchty, Forres, Carnwath, and Dumblain, all on the 10 day; Lady day the firſt in Dundee, Bamff, Merns, Valley-field, and Marymaſs fair in Innerneſs, all on the 15 day, the 20 day at Rugland, a fair in Scoon the 22 day. Marymaſs fair in the town of Ellon in Buchan, and at the town of Ratray in Buchan, both upon the 3 tueſday. S. Bar<g ref="char:EOLhyphen"/>tholomew Apoſtle in Linlithgow, Clackmannan, Kincairn of Neil, and in Peebles, all on the 24 day. S. Zephirinus in Cor<g ref="char:EOLhyphen"/>ſtorphine the 26 day, Samarevis day in Forres the 27. and S. Johns day in S. Johnſtoun, and Lawder the 29 day.</p>
+               <pb facs="tcp:179948:7"/>
+            </div>
+            <div n="september" type="month">
+               <head>In September.</head>
+               <p>S. Giles fair in Elgin 1 day, in Moffat 2 day, Semerivis in Keith the firſt tueſday, in Skirline 4 day, latter Lady day in Dundee, Stirling, Bamff, and at the town of Inverury, all on the 8 day, at Auchtertuil, and Salane the 11 day, latter Ma<g ref="char:EOLhyphen"/>ry fair in the town of Monymoſs on the ſecond tueſday; Rood fair in Innerneſs and Jedburgh the 14 day, at Forfar the 15. S. Monence at the Kirk of Doors in Merns-ſhire, and at the town of Ratray in Buchan, both on the 3 tueſday, at Kirkaldy 20 day, a fair at old Leſlie 21 day, Matthews fair at Linlithgow the 21 day, Rude day in Carill, Jedburgh, Dumfermling, Dumfreis, and Athilſton 24 day, a fair at Col<g ref="char:EOLhyphen"/>rain in Roſs-ſhire, called S. Georges fair 25 day: a fair at Leven, Nicolſon, Tranent, and Dury, all on the 27 day. S. Michael in Haddingtoun, Leſlie, Air, S. Andrews, Crief, Kirk<g ref="char:EOLhyphen"/>cudbright, Gallaſhiels, and at the Kirk of Forrig, Ranſrew, Burgh of Annan, all on the 29 day. S. Jerome in Bamff the laſt day.</p>
+            </div>
+            <div n="october" type="month">
+               <head>In October.</head>
+               <p>The 1, 2, and 3. a fair in Salt Preſton: at Dundee, Kin<g ref="char:EOLhyphen"/>loch-Rannoch in Athol, Turreff in Buchan, Mid-Calder, all on the firſt tueſday of this moneth. S. Francis in Aber<g ref="char:EOLhyphen"/>nethie and Valleyfield 4 day, in Meiklour the 5 day, in Cow<g ref="char:EOLhyphen"/>per of Fife the 6 day: a fair at the Town Lon-head of Leſſwaid, and at Markinch the 8 day, Kirktoun of Monifeeth, S. Dioniſe in Peebles, Earlſton, Kirtintilloch, Aiton, Auchter<g ref="char:EOLhyphen"/>muchty, Ceres in Fife, in Killimuir, Moffat, and S. Dinnot in S. Johnſtoun, all on the 9 day, at Dalkeith and Tillibol 10 day, at Ennerkeithing and Strathven the 12 day; Trewel fair at the Kirk of Reneth-monith the 2 tueſday; a fair at Drumhead in Belheivie the ſecond wedneſday, Fenduck at Dunning 13 day, in Forgondenny and Drymen the 15 day, in Borrowſtounneſs, and Muſſelburgh the 16 day. S. Luke in Lawder, Kinroſs and Rugland the 18 day: S. Irena in Corſtorphine, at the Kirk of Carlouk, and Townyettam on the Border, all on the 20 day, at the new Kirk of Kilpatrick 21 day: Mary Salamine in Sterling and Kelſo 22 day: A fair at Forfar, and Linlithgow 24 day, a fair in Glenquithill
+<pb facs="tcp:179948:7"/>the penult Wedneſday. S. Luke in old Aberdene the 3 tueſday; Hallow fair in Ratray in Buchan the laſt tueſday, in Kilreny and Stramiglo 25. Fowles fair in Paſley and Falkirk 26 day; Simon and Jude in Dyſart, Cockany, Kirk<g ref="char:EOLhyphen"/>liſtoun, Hawick, Migel in Perth-ſhire, and Roſline, all on the 28 day, in Alloway and Nicolſon the 29 day, at Whithorn the laſt thurſday.</p>
+            </div>
+            <div n="november" type="month">
+               <head>In November.</head>
+               <p>Hallow-day in Edinburgh 8 dayes, in Falkland, Dumblane, and Fordyce 1 day, in Alathy 2 day, in Kilwinning 3 day, at Jedburgh the firſt tueſday: S. Leonard in Lanerk, Forres, and Largo the 6 day; Martimas fair ar Innerneſs the 10 day: S. Marth. in Dumbar, Melrois, Martinskirk, Cowper of Fife, Hamilton, Culroſs, Kilmahug, &amp; Strabogie, all on the 11 day: Martimas fair at Stone-hive, in the Shire of Merns, on the tueſday before Martimas: at Kilſyth the 12 day. S. Clement in Dundee 13 day. S. Helens day at Grinnock, and Down in Montieth 15 day. Margaretmaſs in Dumfermling, Lawder, and Borrowſtounneſs, all on the 16 day. S. Mucharmuch in Tane, Auchtertuil, and Bryack fair at the Kirk of Rowl, all on the 22 day, at Burntiſland the 23 day; Andermaſs fair at Stradon, and Frazerburgh in Buchan the 29 day; S. Andrew at the town of old Meldrum, the laſt tueſday. S. Andrew in S. Johnſtoun, Peebles and Chirnſide the 30 day.</p>
+            </div>
+            <div n="december" type="month">
+               <head>In December.</head>
+               <p>S. Nicolas fair in Aberdene the 7 day; at Renfrew the 6 day: Lady day in Weſt-weems the 8 day; at Bamff, Ro<g ref="char:EOLhyphen"/>themay, Duſtane fair at the town of Deer, all on the 14 day; S. Thomas in Glaſgow and at Down in Mentieth the 15 day; S. Cuthbert in Grange in Linlithgow ſhire the 17 day; S. Thomas in Innerneſs the 20 day; S. Johns fair in Bamff, Forres, and Methill, near Levens mouth, all upon the 27 day; S. Davids in the Kirk-town of Davids, in Gerry, the tueſday after Chriſtmas.</p>
+            </div>
+            <trailer>
+               <hi>In</hi> Scotland <hi>there are</hi> 31 <hi>Shires, and</hi> 62 <hi>Burghs.</hi>
+            </trailer>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:179948:8"/>
+            <head>As for the firſt kind of Artiſts, I ſay,</head>
+            <lg>
+               <l>If they have Art let me it ſee</l>
+               <l>In phraſes of our own Country:</l>
+               <l>Namely in Arts which hath been found</l>
+               <l>Into our own good Scotiſh ground.</l>
+               <l>If they have Art from <hi>Rome</hi> or <hi>Greece</hi>
+               </l>
+               <l>Tell it in phraſes of that Place:</l>
+               <l>And alſo who it there did find,</l>
+               <l>And they ſhall hear more of my mind.</l>
+               <l>When they deſcribe the Comets Ray,</l>
+               <l>The Swans wing they ought to ſay:</l>
+               <l>They give't a name though not a nait'ne,</l>
+               <l>For <hi>Cignus,</hi> wing is broken Latine</l>
+               <l>They give this Comet a Stars name,</l>
+               <l>And places it in Stary frame.</l>
+               <l>And alſo names its Conſtellation</l>
+               <l>As if it kept a conſtant ſtation.</l>
+               <l>It ſeems the Art hath got diſgrace,</l>
+               <l>Which makes the Stars to leave their place:</l>
+               <l>Scorning with them to be ſet down,</l>
+               <l>Or to be known for half a Crown</l>
+               <l>Or elſe their inſtruments do fail,</l>
+               <l>For things too cheap is oft out-waile.</l>
+               <l>For they begin Art to ſet down,</l>
+               <l>And teach the ſame for half a Crown</l>
+               <l>Which if they could take obſervation</l>
+               <l>They would not ſo ſlight Navigation.</l>
+               <l>For Artiſts good I thus will ſay,</l>
+               <l>I'l ſhew all kindneſs that I may;</l>
+               <l>And ſo will all that loves theſe Arts,</l>
+               <l>Both in this place and other parts.</l>
+               <l>By Mathematicks firſt were made</l>
+               <l>The firſt foundation of each Trade.</l>
+            </lg>
+            <lg>
+               <l>I pray good Artiſts me excuſe</l>
+               <l>For in this thing I none abuſe:</l>
+               <l>For better it were them to exhort,</l>
+               <l>Then they to others be a ſport.</l>
+            </lg>
+            <closer>
+               <signed>Ja. Paterſon</signed>
+            </closer>
+         </div>
+         <div n="comet" type="description">
+            <pb facs="tcp:179948:8"/>
+            <head>A Deſcription of the <hi>Comet.</hi>
+            </head>
+            <p>Upon the 14 day I obſerved this Comets ray to paſs juſt betwixt us, and the upmoſt Star in the Vulters breaſt, and upon the 15 day, betwixt us and the midle brighteſt, and upon the 16 day, I found it to be at 6 a Clock at night in <hi>Capricorn</hi> 17 d. 01' 30" in Latitude 14 d. 47' North, at which time the Suns place is <hi>Capricorn</hi> 06 d. 08' 30" and the loweſt Stars place is <hi>Capricorn</hi> 27 d. 55' in lat. 27 d. 10' Again 24 d. at 7 a clock at night, its place is <hi>Aquarius,</hi> 20 d. 18' 30" in Lat. 25 d. 46' North. Likewiſe 29 day at 9 a clock at night, its place is <hi>Piſces,</hi> 14 d. 19' in Lat. 18 d. 20' 33" North. Again 1681. <hi>Jan.</hi> 6 day, at 6 a clock at night its place is <hi>Aries</hi> 10 d. 50' 53" in Lat. 26 d. 15' 38" North, its mean diſtance from the Earth is 1238911 miles, its Node aſcending <hi>Sagitarius</hi> 18 d. 21' greateſt Lat. viz. 28 d. 40' 30" in <hi>Piſces</hi> 18 d. 21' Node deſcending <hi>Gemini</hi> 18 d. 21' which will be about <hi>Jan.</hi> 23 day, after which you ſhall ſcarce diſcern it, ſo that I ſee it amongſt the Orbs of the Planets and not upon the Stary frame, as is falſely Alledged by ſome of our new Artiſts, in whom the Vulgars put much truſt, and yet they will have it between us and the Moon, which is impoſſible: Yet theſe Obſervations I have made, and will approve of them as reale; As alſo the Long. by Coeleſtial obſervation, al<g ref="char:EOLhyphen"/>though there be many who profeſs to be Artiſts and yet knows little of Art, but only a few Latine and Greek phra<g ref="char:EOLhyphen"/>ſes on it, holds it impoſſible, becauſe they know no better; and yet there is other good Artiſts, who although they have it not, believes it to be true, knowing that Art may produce many things.</p>
+         </div>
+         <div type="advert_for_mathematical_instruments">
+            <head>Advertiſement.</head>
+            <p>Such as deſire any Mathematical Inſtruments made of Wood, as Scales or the like, with the uſe thereof may find me over againſt the foot of Peebles-winde in the Cowgate of <hi>Edinburgh,</hi> where they ſhall have Scales of my forming, that ſhall reſolve Mathematical queſtions both ſpeedily and exactly.</p>
+            <closer>
+               <signed>Ja. Paterſon.</signed>
+            </closer>
+            <gap reason="missing" extent="1 page">
+               <desc>〈1 page missing〉</desc>
+            </gap>
+         </div>
+         <div type="tide_table">
+            <pb facs="tcp:179948:9"/>
+            <head>A Tide TABLE</head>
+            <div type="table">
+               <p>
+                  <table>
+                     <row>
+                        <cell> </cell>
+                        <cell role="label">Moon makes full Sea in</cell>
+                        <cell role="label">Full Sea on Change and full Moon at</cell>
+                     </row>
+                     <row>
+                        <cell>North. Or South.</cell>
+                        <cell>Queensburgh, Iſlle of wight</cell>
+                        <cell>0 0<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>NBE Or SBW</cell>
+                        <cell>Aberdene, Rocheſter</cell>
+                        <cell>0 <gap reason="illegible" resp="#UOM" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>NNE Or SSW</cell>
+                        <cell>Graves-end, Downs, Scilly</cell>
+                        <cell>1 <gap reason="illegible" resp="#UOM" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>NEBN Or SWBS</cell>
+                        <cell>Leith, St. Andrews, Dundee</cell>
+                        <cell>2 <gap reason="illegible" resp="#UOM" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>NE Or SW</cell>
+                        <cell>London, Tinmouth, Amſterd.</cell>
+                        <cell>3 <gap reason="illegible" resp="#UOM" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>NEBE Or SWBW</cell>
+                        <cell>Berwick, Flamburghhead</cell>
+                        <cell>3 <gap reason="illegible" resp="#UOM" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>ENE Or WSW</cell>
+                        <cell>Kingſaile, Baltimore Uſhant</cell>
+                        <cell>4 <gap reason="illegible" resp="#UOM" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>EBN Or WBS</cell>
+                        <cell>Newcaſtle, Humber, Lizard</cell>
+                        <cell>5 <gap reason="illegible" resp="#UOM" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>Eaſt Or Weſt.</cell>
+                        <cell>Briſtol, Plimouth, Hull</cell>
+                        <cell>6 0<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>EBS Or WBN</cell>
+                        <cell>Waterford, Abermorick</cell>
+                        <cell>6 <gap reason="illegible" resp="#UOM" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>ESE Or WNW</cell>
+                        <cell>Portruſh, Milnford, Texel</cell>
+                        <cell>7 <gap reason="illegible" resp="#UOM" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>SEBE Or NWBW</cell>
+                        <cell>Dublin, Lamby, The Hague</cell>
+                        <cell>8 <gap reason="illegible" resp="#UOM" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>SE Or NW</cell>
+                        <cell>Dumbar, Iſle of Man, Orkney</cell>
+                        <cell>8 <gap reason="illegible" resp="#UOM" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>SEBS Or NWBN</cell>
+                        <cell>North and ſouth Foreland</cell>
+                        <cell>9 <gap reason="illegible" resp="#UOM" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>SSE Or NNW</cell>
+                        <cell>Yarmouth, Dover, Harwich</cell>
+                        <cell>10 30</cell>
+                     </row>
+                     <row>
+                        <cell>SBE Or NBW</cell>
+                        <cell>Rye, Winchelſy, Culſhot</cell>
+                        <cell>11 <gap reason="illegible" resp="#UOM" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>
+                        </cell>
+                     </row>
+                  </table>
+               </p>
+            </div>
+            <div type="explanation">
+               <head>The <g ref="char:V">Ʋ</g>ſe.</head>
+               <p>Having known what Moon makes full Sea in any <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> or Harbour, (as you have a Table here of the moſt <gap reason="illegible" resp="#UOM" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>markable) you muſt multiply the Moons age by 4, and <gap reason="illegible" resp="#UOM" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>vide the product by 5, the quotient will be hours, an<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the remainders will be 5 parts of an hour, (every 5 par<gap reason="illegible" resp="#UOM" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> being 12') for the time of the Moons ſouthing, and a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ding 24 thereto will be her northing; very near to which add the hours and minuts belonging to the point of flow<g ref="char:EOLhyphen"/>ing, and then ſeek the Moons age in this Table, unde<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Moons age and to<g ref="char:EOLhyphen"/>wards the right hand you have the hours and minuts to be ſubſtracte<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> from the former ſum, <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the remainder is <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> time of full Sea:</p>
+               <p>
+                  <table>
+                     <row>
+                        <cell role="label" cols="4">Moons age</cell>
+                        <cell role="label">h.</cell>
+                        <cell role="label">'</cell>
+                     </row>
+                     <row>
+                        <cell>1</cell>
+                        <cell>14</cell>
+                        <cell>16</cell>
+                        <cell>29</cell>
+                        <cell>0</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>2</cell>
+                        <cell>13</cell>
+                        <cell>17</cell>
+                        <cell>28</cell>
+                        <cell>0</cell>
+                        <cell>5</cell>
+                     </row>
+                     <row>
+                        <cell>3</cell>
+                        <cell>12</cell>
+                        <cell>18</cell>
+                        <cell>27</cell>
+                        <cell>0</cell>
+                        <cell>10</cell>
+                     </row>
+                     <row>
+                        <cell>4</cell>
+                        <cell>11</cell>
+                        <cell>19</cell>
+                        <cell>26</cell>
+                        <cell>0</cell>
+                        <cell>20</cell>
+                     </row>
+                     <row>
+                        <cell>5</cell>
+                        <cell>10</cell>
+                        <cell>20</cell>
+                        <cell>25</cell>
+                        <cell>0</cell>
+                        <cell>30</cell>
+                     </row>
+                     <row>
+                        <cell>6</cell>
+                        <cell>9</cell>
+                        <cell>21</cell>
+                        <cell>24</cell>
+                        <cell>0</cell>
+                        <cell>45</cell>
+                     </row>
+                     <row>
+                        <cell>7</cell>
+                        <cell>8</cell>
+                        <cell>22</cell>
+                        <cell>23</cell>
+                        <cell>1</cell>
+                        <cell>00</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>I demand full Sea <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>Leith</hi> the 6 day of the Moons age? Anſwer, multiply 6 <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 4, product is 24, which divide by 5, quotient is 4 and <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 48' to which ad 2 h. 15' belonging to NEBN or SW<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> for <hi>Leith,</hi> ſum is 5 h. from which ſubſtract 45' found in <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> laſt Table, remainder is 4 h, 18' true time of full Sea <hi>Leith</hi> required.</p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
